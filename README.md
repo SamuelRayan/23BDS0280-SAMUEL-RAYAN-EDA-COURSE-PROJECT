@@ -11,7 +11,6 @@ An end-to-end exploratory data analysis of the **Telco Customer Churn** dataset 
 |---|---|
 | [`23BDS0280-SAMUEL RAYAN(EDA COURSE PROJECT).ipynb`](23BDS0280-SAMUEL%20RAYAN%28EDA%20COURSE%20PROJECT%29.ipynb) | Jupyter notebook with all code and outputs |
 | [`23BDS0280-SAMUEL RAYAN(EDA COURSE PROJECT).pdf`](23BDS0280-SAMUEL%20RAYAN%28EDA%20COURSE%20PROJECT%29.pdf) | Full project report (PDF export of the notebook) |
-| [`23BDS0280-SAMUEL RAYAN (EDA COURSE PROJECT).mp4`](23BDS0280-SAMUEL%20RAYAN%20%28EDA%20COURSE%20PROJECT%29.mp4) | Video walkthrough of the project (~312 MB, stored with Git LFS; download to watch) |
 
 ## Dataset
 
@@ -56,10 +55,3 @@ jupyter notebook "23BDS0280-SAMUEL RAYAN(EDA COURSE PROJECT).ipynb"
 ```
 
 The dataset is loaded straight from its URL, so you don't need to download anything else.
-
-To download the video when cloning, install [Git LFS](https://git-lfs.com) first:
-
-```bash
-git lfs install
-git clone https://github.com/SamuelRayan/23BDS0280-SAMUEL-RAYAN-EDA-COURSE-PROJECT.git
-```
